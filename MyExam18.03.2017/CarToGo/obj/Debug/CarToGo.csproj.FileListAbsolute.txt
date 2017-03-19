@@ -1,0 +1,6 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\CarToGo\bin\Debug\CarToGo.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\CarToGo\bin\Debug\CarToGo.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\CarToGo\bin\Debug\CarToGo.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\CarToGo\obj\Debug\CarToGo.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\CarToGo\obj\Debug\CarToGo.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\CarToGo\obj\Debug\CarToGo.pdb

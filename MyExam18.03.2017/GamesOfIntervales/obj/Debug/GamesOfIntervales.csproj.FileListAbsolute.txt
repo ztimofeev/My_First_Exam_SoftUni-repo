@@ -1,0 +1,12 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\GamesOfIntervales\bin\Debug\GamesOfIntervales.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\GamesOfIntervales\bin\Debug\GamesOfIntervales.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\GamesOfIntervales\bin\Debug\GamesOfIntervales.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\GamesOfIntervales\obj\Debug\GamesOfIntervales.csprojResolveAssemblyReference.cache
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\GamesOfIntervales\obj\Debug\GamesOfIntervales.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\GamesOfIntervales\obj\Debug\GamesOfIntervales.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\MyExam18.03.2017\GamesOfIntervales\bin\Debug\GamesOfIntervales.exe.config
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\MyExam18.03.2017\GamesOfIntervales\bin\Debug\GamesOfIntervales.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\MyExam18.03.2017\GamesOfIntervales\bin\Debug\GamesOfIntervales.pdb
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\MyExam18.03.2017\GamesOfIntervales\obj\Debug\GamesOfIntervales.csprojResolveAssemblyReference.cache
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\MyExam18.03.2017\GamesOfIntervales\obj\Debug\GamesOfIntervales.exe
+C:\Users\Timofeev\Documents\Visual Studio 2017\Projects\MyExam18.03.2017\GamesOfIntervales\obj\Debug\GamesOfIntervales.pdb

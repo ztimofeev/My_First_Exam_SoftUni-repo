@@ -1,0 +1,5 @@
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\WorkHouse\bin\Debug\WorkHouse.exe.config
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\WorkHouse\bin\Debug\WorkHouse.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\WorkHouse\bin\Debug\WorkHouse.pdb
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\WorkHouse\obj\Debug\WorkHouse.exe
+c:\users\timofeev\documents\visual studio 2017\Projects\Solution1\WorkHouse\obj\Debug\WorkHouse.pdb
